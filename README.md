@@ -35,7 +35,7 @@ The configuration details of each machine may be found below:
 
 | Name     | Function              | IP Address | Operating System |
 |----------|-----------------------|------------|------------------|
-| Jump Box | Gateway               | 10.0.0.1   | Linux            |
+| Jump Box | Gateway               | 10.0.0.9   | Linux            |
 | Web-1    | DVWA Containers       | 10.0.0.13  | Linux            |
 | Web-2    | DVWA Containers       | 10.0.0.12  | Linux            |
 | Web-3    | DVWA Containers       | 10.0.0.14  | Linux            |
