@@ -2,11 +2,13 @@
 
 The files in this repository were used to configure the network depicted below.
 
-![TODO: Update the path with the name of your diagram](Images/diagram_filename.png)
+![Network Diagram](https://github.com/JHBruin33/Cybersecurity-Project-1/blob/main/Diagrams/UCLA%20CYBERSECURITY%20PROJECT%201%20NETWORK%20DIAGRAM.jpg)
+
+
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Azure Cloud Environment file may be used to install only certain pieces of it, such as Filebeat.
 
-  - _TODO: Enter the playbook file._
+  - [Filebeat Playbook](https://github.com/JHBruin33/Cybersecurity-Project-1/blob/main/Ansible/roles/filebeat-playbook.yml)
 
 This document contains the following details:
 - Description of the Topologu
@@ -28,8 +30,8 @@ Integrating an ELK server allows users to easily monitor the vulnerable VMs for 
 - Filebeat helps generate and organize log files to send to Logstash and Elasticsearch. Specifically, it logs information about the file system, including which files have changed and when.
 - Metricbeat is a lightweight shipper that you can install on your servers to periodically collect metrics from the operating system and from services running on the server. Metricbeat takes the metrics and statistics that it collects and ships them to the output that you specify, such as Elasticsearch or Logstash.
 
-The configuration details of each machine may be found below.
-_Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdown_tables) to add/remove values from the table_.
+The configuration details of each machine may be found below:
+
 
 | Name     | Function              | IP Address | Operating System |
 |----------|-----------------------|------------|------------------|
