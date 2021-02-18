@@ -2,7 +2,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-https://github.com/JHBruin33/Cybersecurity-Project-1/tree/main/Diagrams
+![Network Diagram](https://github.com/JHBruin33/Cybersecurity-Project-1/tree/main/Diagrams)
 
 
 
